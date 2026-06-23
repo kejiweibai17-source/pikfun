@@ -4,8 +4,8 @@
 
 ## 專案結構
 
-- `pickleball-storefront/` — Next.js 前端
-- `pickleball-backend/` — Medusa 後端
+- `pickleball-storefront/` — Next.js 前端（本 repo）
+- 後端 Medusa — 獨立 repo：[pikfub-backend](https://github.com/kejiweibai17-source/pikfub-backend)
 
 ## 本地開發
 
